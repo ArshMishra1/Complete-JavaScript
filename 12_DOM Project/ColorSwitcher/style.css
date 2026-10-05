@@ -1,0 +1,22 @@
+.main{
+ width: 500px;
+ height:500px;
+ background-color: red;
+}
+h2{
+    text-align: center;
+    font-size: 53px;
+    margin-top: 10px;
+}
+button{
+    padding: 10px;
+    font-size: 23px;
+    border-radius: 51px;
+    margin: 10px;
+}
+input{
+     padding: 1px;
+    font-size: 23px;
+    border-radius: 51px;
+    margin: 10px;
+}

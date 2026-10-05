@@ -1,0 +1,10 @@
+div{
+    width: 400px;
+    height: 200px;
+    background-color: red;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+p{
+    border:  2px black solid;
+}
