@@ -85,3 +85,14 @@ if(product ===0){
 }else{
     console.log(`Product stock is ${product}`)
 }
+
+let subscriptio=true;
+let usersubscriptiotype;
+
+if(usersubscriptiotype =="permium"){
+    console.log("access to all content")
+}else if(usersubscriptiotype =="Standard"){
+    console.log("access to all limites content")
+}else {
+    console.log("plasase sunscriber to acces contenr")
+}
