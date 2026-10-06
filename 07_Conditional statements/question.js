@@ -7,8 +7,6 @@
 // Note that in case of “Deposit” if deposit amount is less than 1Rs produce error otherwise deposit the amount and show
 // the message with a new balance. And in case of “Withdraw” if withdraw amount is greater than balance then or less
 // than 1Rs then produce error otherwise withdraw amount and show remaining balance.
-
-
 // let user;
 // let checkbalance=2333;
 // let deposit;
