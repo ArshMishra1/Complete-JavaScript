@@ -65,7 +65,7 @@ console.log(booleanNum)              //true
  
 let value =-1;
 let booleanNum2=Boolean(value);
-console.log(booleanNum2);        //true
+console.log(booleanNum2);        //true     
 
 
 let value2 =0;
