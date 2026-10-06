@@ -79,20 +79,50 @@
 
 
 
-let product=0;
-if(product ===0){
-    console.log("product is out of stock")
-}else{
-    console.log(`Product stock is ${product}`)
-}
+// let product=0;
+// if(product ===0){
+//     console.log("product is out of stock")
+// }else{
+//     console.log(`Product stock is ${product}`)
+// }
 
-let subscriptio=true;
-let usersubscriptiotype;
+// let subscriptio=true;
+// let usersubscriptiotype;
 
-if(usersubscriptiotype =="permium"){
-    console.log("access to all content")
-}else if(usersubscriptiotype =="Standard"){
-    console.log("access to all limites content")
-}else {
-    console.log("plasase sunscriber to acces contenr")
-}
+// if(usersubscriptiotype =="permium"){
+//     console.log("access to all content")
+// }else if(usersubscriptiotype =="Standard"){
+//     console.log("access to all limites content")
+// }else {
+//     console.log("plasase sunscriber to acces contenr")
+// }
+
+
+//old way
+
+// let num1=9;
+// let num2=10;
+// let num3=11;
+
+// if(num1 > num2 && num1> num3){
+//     console.log(`${num1 } is greater number`)
+// }else if( num2 >num3 && num2 > num1){
+//     console.log(`${num1 } is greater number`)
+
+// }else {
+//     console.log(`${ num3} is greater number`)
+
+// }
+
+//modern way 
+// let num1 = 9;
+// let num2 = 10;
+// let num3 = 11;
+
+// let greatest = Math.max(num1, num2, num3);
+// console.log(greatest)
+
+
+let num1 = 9;
+let num2 = 10;
+let num3 = 11;
