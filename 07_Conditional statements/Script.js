@@ -76,3 +76,12 @@
 // else if (user2 === "Paper" && user1 === "Rock") {
 //     console.log("Paper win");
 // }
+
+
+
+let product=0;
+if(product ===0){
+    console.log("product is out of stock")
+}else{
+    console.log(`Product stock is ${product}`)
+}
