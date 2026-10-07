@@ -122,7 +122,52 @@
 // let greatest = Math.max(num1, num2, num3);
 // console.log(greatest)
 
+// //Ternary Operator 
+// Ek user ki age 20 hai.
 
-let num1 = 9;
-let num2 = 10;
-let num3 = 11;
+// Ternary operator ka use karke check karo:
+
+// Agar age 18 ya usse zyada hai → "Eligible for driving"
+// Otherwise → "Not eligible for driving"
+
+let user=10;
+let result= user >= 18 ? "You can drive car" :" You can not drive"
+console.log(result)
+
+
+
+// Ek user ke paas ₹500 hain aur product ki price ₹400 hai.
+
+// Ternary operator se check karo:
+
+// Agar balance price se greater ya equal hai → "Purchase successful"
+// Otherwise → "Insufficient balance"
+
+
+let userbalance=500;
+let product=400;
+
+let result2 = userbalance >= product ? "Purchase successful" : "Insufficient balance";
+console.log( result2)
+
+
+
+// Ek user ke paas:
+
+// let age = 25;
+// let hasLicense = true;
+// let hasCar = false;
+
+// Ternary operator se check karo:
+
+// Age 18+ AND license true AND car true → "You can drive"
+// Age 18+ AND license true BUT car false → "You need a car"
+// Otherwise → "You are not eligible"
+
+
+let age = 25;
+let hasLicense = true;
+let hasCar = false;
+
+let result3= age >= 18 && hasLicense   && hasCar? "You can drive" :  age >= 18 && hasLicense   && hasCar  ? "You need a car" :  "You are not eligible"
+console.log(result)
