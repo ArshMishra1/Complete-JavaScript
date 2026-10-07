@@ -36,3 +36,15 @@ let user = function () {
 
 console.log(typeof user);          // "function"
 console.log(typeof function(){});  // "function"
+
+
+
+
+//genrate 1000to 2000 random number
+
+
+
+let number= Math.floor((Math.random( 2000-1000) *10)+1000)
+let number2= Math.floor((Math.random( ) *2000)+1000)
+console.log(number2)
+console.log(number)
