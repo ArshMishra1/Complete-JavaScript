@@ -2,13 +2,13 @@
 
 # 🚀 Complete JavaScript Mastery
 
-<!-- Repositories Metrics Badges -->
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
+<!-- Repositories Metrics Badges - Fixed Load Structure -->
+<img src="https://shields.io" alt="GitHub stars" />&nbsp;
+<img src="https://shields.io" alt="GitHub forks" />&nbsp;
+<img src="https://shields.io" alt="GitHub issues" />&nbsp;
+<img src="https://shields.io" alt="License" />
 
-<br />
+<br /><br />
 
 Welcome to **Complete-JavaScript** — a production-grade, comprehensive repository tracking my technical evolution from foundational concepts to advanced architectural design patterns in modern JavaScript. Built with optimal code practices, clean architectures, and recruiter-focused clarity.
 
@@ -29,9 +29,7 @@ This repository serves as a showcase of my deep mastery over the **ECMAScript en
 | Module | Core Concepts Explored | Visual Focus | Status |
 | :---: | :--- | :--- | :---: |
 | **01. Fundamentals** | Variables, Data Types, Scopes, Closures, Hoisting | Execution Contexts | 🟩 Complete |
-| **02. Data Structures** | Arrays, Objects, Sets, Maps, Destructuring, Rest/Spread | Memory Allocation | 🟩 Complete |
 | **03. DOM Manipulation** | Event Bubbling/Capturing, Listeners, Dynamic Rendering | Critical Rendering Path | 🟩 Complete |
-| **04. OOP JavaScript** | Prototypes, Classes, Inheritance, Encapsulation | Prototypal Chain | 🟩 Complete |
 | **05. Asynchronous JS** | Event Loop, Promises, Async/Await, Fetch API, Error Handling | Non-blocking I/O | 🟩 Complete |
 | **06. Performance & Testing**| Debouncing, Throttling, Polyfills, Memory Leak Analysis | Optimization | ⚡ In Progress |
 
@@ -100,9 +98,15 @@ Let's talk code optimizations, engineering openings, or system structures!
 
 <br />
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Portfolio](https://shields.io)](https://YOUR_PORTFOLIO_URL)
+<a href="https://linkedin.com" target="_blank">
+  <img src="https://githubusercontent.com" width="50" height="50" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://YOUR_PORTFOLIO_URL" target="_blank">
+  <img src="https://githubusercontent.com" width="50" height="50" alt="Portfolio" />
+</a>
 
+<br /><br />
 ---
 ⭐ If this deep dive into JavaScript gives you insight into my engineering capabilities, feel free to give this repository a star!
 
