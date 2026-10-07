@@ -1,11 +1,16 @@
+<div align="center">
+
 # 🚀 Complete JavaScript Mastery
 
-[![GitHub stars](https://shields.io)](https://github.com)
-[![GitHub forks](https://shields.io)](https://github.com)
-[![Issues](https://shields.io)](https://github.com)
-[![License](https://shields.io)](LICENSE)
+<!-- Repositories Metrics Badges -->
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
 
-Welcome to **Complete-JavaScript**—a production-grade, comprehensive repository tracking my technical evolution from foundational concepts to advanced architectural design patterns in modern JavaScript. Built with optimal code practices, clean architectures, and recruiter-focused clarity.
+<br />
+
+Welcome to **Complete-JavaScript** — a production-grade, comprehensive repository tracking my technical evolution from foundational concepts to advanced architectural design patterns in modern JavaScript. Built with optimal code practices, clean architectures, and recruiter-focused clarity.
 
 ---
 
@@ -21,8 +26,8 @@ This repository serves as a showcase of my deep mastery over the **ECMAScript en
 
 ## 📂 Architecture & Learning Roadmap
 
-| Module | Core Concepts Explored | Visual Component / Focus | Status |
-| :--- | :--- | :--- | :---: |
+| Module | Core Concepts Explored | Visual Focus | Status |
+| :---: | :--- | :--- | :---: |
 | **01. Fundamentals** | Variables, Data Types, Scopes, Closures, Hoisting | Execution Contexts | 🟩 Complete |
 | **02. Data Structures** | Arrays, Objects, Sets, Maps, Destructuring, Rest/Spread | Memory Allocation | 🟩 Complete |
 | **03. DOM Manipulation** | Event Bubbling/Capturing, Listeners, Dynamic Rendering | Critical Rendering Path | 🟩 Complete |
@@ -36,6 +41,7 @@ This repository serves as a showcase of my deep mastery over the **ECMAScript en
 
 ### 🔥 1. Mastering Asynchronous Operations
 Handling non-blocking processes seamlessly using modern paradigms to minimize latency and ensure top-tier performance.
+
 ```javascript
 // Efficiently managing parallel resource allocation via async/await frameworks
 async function fetchSystemMetrics(endpoint) {
@@ -52,8 +58,9 @@ async function fetchSystemMetrics(endpoint) {
 
 ### ⚡ 2. High-Performance DOM Optimizations
 Mitigating UI lagging and paint flashing by keeping operations inside decoupled event layers.
-*   **Event Delegation:** Attaching a single event listener to a parent element instead of mapping hundreds to child nodes.
-*   **Debouncing / Throttling:** Restricting resource-heavy function triggers during continuous windows like resizing or infinite scrolling.
+
+* **Event Delegation:** Attaching a single event listener to a parent element instead of mapping hundreds to child nodes.
+* **Debouncing / Throttling:** Restricting resource-heavy function triggers during continuous windows like resizing or infinite scrolling.
 
 ---
 
@@ -82,17 +89,21 @@ code .
 
 ## 👨‍💻 Key Skills Demonstrated to Recruiters
 
-*   **Production-Grade Writing:** Write clean, dry (DRY), semantic, and structured script layers.
-*   **Deep Engine Intuition:** Comprehensive mental model of how V8 compiles, executes, and parses lexical scoping environments.
-*   **Async Pattern Fluency:** Capable of orchestrating clean state tracking across heavily distributed API ecosystems.
+* **Production-Grade Writing:** Write clean, dry (DRY), semantic, and structured script layers.
+* **Deep Engine Intuition:** Comprehensive mental model of how V8 compiles, executes, and parses lexical scoping environments.
+* **Async Pattern Fluency:** Capable of orchestrating clean state tracking across heavily distributed API ecosystems.
 
 ---
 
 ## 🤝 Connect with Me
 Let's talk code optimizations, engineering openings, or system structures!
 
-[![LinkedIn Badge](https://shields.io)](https://linkedin.com)
-[![Portfolio Badge](https://shields.io)](https://YOUR_PORTFOLIO_URL)
+<br />
 
-***
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Portfolio](https://shields.io)](https://YOUR_PORTFOLIO_URL)
+
+---
 ⭐ If this deep dive into JavaScript gives you insight into my engineering capabilities, feel free to give this repository a star!
+
+</div>
