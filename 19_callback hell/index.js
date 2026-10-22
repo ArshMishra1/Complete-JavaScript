@@ -49,7 +49,7 @@ function ordernotifaction(callback){
     console.log("You payment is successfully and order is confirem")
     setTimeout(()=>{
         callback()
-    })
+    },2000)
 }
 
 function orderdeatil(){
